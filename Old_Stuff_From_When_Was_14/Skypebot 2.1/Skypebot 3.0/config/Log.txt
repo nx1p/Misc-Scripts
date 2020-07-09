@@ -1,0 +1,3 @@
+true
+
+If false is changed to true then it will log every message to log.txt in modules/storage
