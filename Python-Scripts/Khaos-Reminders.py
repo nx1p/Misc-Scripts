@@ -8,8 +8,8 @@
 # Author: Cryptid&Electra Khaos        #
 # Created: 09/07/2020                  #
 # Last update: 09/07/2020              #
-# Version: v0.1                        #
-# Time worked on: 4.0 hours            #
+# Version: v0.2                        #
+# Time worked on: ~5.0 hours           #
 #                                      #
 ########################################
 ## TO-DO
