@@ -50,7 +50,7 @@ async def unknown_command(client, msg):
     await channel.send(f'{BOT_PROMPT} ERROR: Unknown request \"{msg}\"')
 
 #Dictionary that maps the string of command names to functions
-COMMANDS_DICT = {'shutdown': shutdown_bot }
+COMMANDS_DICT = {'shutdown': shutdown_bot}
 
 
 # Example usage: log("Booting up")
