@@ -18,6 +18,7 @@
 #     - Time taken: (1h 12m)
 # [ ] Do the whole actual reminders stuff, sending X message after X time and all
 #     [X] Make function to do basic morning reminders (Time: 40m)
+#     [ ] Make function to remind take Estrogen every 5 hours
 # [X] Framework for writing commands and a command to shut bot down (Time taken: 50m)
 # [ ] Bot automatically asks for shutdown when sleep tracking starts
 # [ ] Bot double checks only one instance is running on start up
