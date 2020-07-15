@@ -17,6 +17,7 @@
 # [X] Edit the confirmation message to show how long until time out
 #     - Time taken: (1h 12m)
 # [ ] Do the whole actual reminders stuff, sending X message after X time and all
+#     [X] Make function to do basic morning reminders (Time: 40m)
 
 import discord
 import asyncio
