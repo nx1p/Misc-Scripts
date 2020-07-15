@@ -18,6 +18,9 @@
 #     - Time taken: (1h 12m)
 # [ ] Do the whole actual reminders stuff, sending X message after X time and all
 #     [X] Make function to do basic morning reminders (Time: 40m)
+# [ ] Command to shut bot down
+# [ ] Bot automatically asks for shutdown when sleep tracking starts
+# [ ] Bot double checks only one instance is running on start up
 
 import discord
 import asyncio
