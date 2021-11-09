@@ -5,4 +5,4 @@ Todo:
 
 Howdy there! This here is my lil repo for misc scripts, miscellaneous scripts.
 
-Mostly just lil scripts I made to automate something simple like [creating separate archives for each folder inside a target folder](Powershell/Powershell/Automated-individual-Archiver.ps1)
+Mostly just lil scripts I made to automate something simple like [creating separate archives for each folder inside a target folder](Powershell/Automated-individual-Archiver.ps1)
