@@ -13,6 +13,13 @@ from scrape import UpdateDatabase
 global ai
 client = discord.Client()
 
+# note to self: API key has been reset, if ever working with this code again,
+# configure code to use a config file and set a .gitignore to not push this config file to public repos
+# more info? check out these concise stack overflow answers future me 
+# https://stackoverflow.com/questions/44342276/how-to-push-code-to-github-hiding-the-api-keys
+
+# side note: jeez looking at this hurts my eyes, thx 14yr old me, also needs more comments. there's.. uh none. lmao.
+
 def Dice(minn, maxx):
     print(minn)
     print(maxx)

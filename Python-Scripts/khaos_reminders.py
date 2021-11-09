@@ -31,6 +31,13 @@
 #   That the command's unknown?
 #   Same logic/code that works for the discord command handler and that doesn't have that problem?
 
+
+
+# note to self: API key has been reset, if ever working with this code again,
+# configure code to use a config file and set a .gitignore to not push this config file to public repos
+# more info? check out these concise stack overflow answers future me 
+# https://stackoverflow.com/questions/44342276/how-to-push-code-to-github-hiding-the-api-keys
+
 #Standard imports
 import asyncio
 import os
